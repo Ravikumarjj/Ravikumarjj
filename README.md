@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ravi kanu baniya, a CSE student from Kalinga Institute of Technology
+- 👋 Hi, I’m Ravi kanu baniya, a CSE student from Kalinga Institute of Industrial Technology
 - 👀 I’m interested in developing, drawing and traveling😁
 - 🌱 I’m currently learning cloud computing technology
 - 💞️ I’m looking to collaborate with anyone having unique innovating ideas for social welfare
