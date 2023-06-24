@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ravi kanu baniya, a CSE student from Kalinga Institute of Industrial Technology
 - 👀 I’m interested in developing, drawing and traveling😁
-- 🌱 I’m currently learning cloud computing technology
+- 🌱 I’m currently learning AL/ML and Data Science.
 - 💞️ I’m looking to collaborate with anyone having unique innovating ideas for social welfare
 - 📫 How to reach me .., through mail only geniusk53@gmail.com is my email id 
 
